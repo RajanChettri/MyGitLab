@@ -5,3 +5,5 @@ Here is a List of Grocery
 3 Tea
 4 Sugar
 5 Bread
+6 Butter
+7 Arabica Coffee
